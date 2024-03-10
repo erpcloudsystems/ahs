@@ -219,3 +219,7 @@ app_include_css = "/assets/ahs/css/ahs.css"
 # auth_hooks = [
 #	"ahs.auth.validate"
 # ]
+fixtures = [
+    {"dt": "Custom Field"},
+    {"dt": "Property Setter"},
+]
